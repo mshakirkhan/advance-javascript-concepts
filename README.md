@@ -1,1 +1,1 @@
-# Advance JavaScript Concepts By Muhammad Shakir Khan
+# Advance JS Concepts By Muhammad Shakir Khan
